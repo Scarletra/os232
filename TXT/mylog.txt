@@ -1,1 +1,3 @@
-
+ZCZX W00 5 L05 Installing SEB and do the dummy quiz on SEB
+ZCZX W00 10 L03 Set up my new repo "os232" on my github
+ZCZX W00 10 L04 Set up my github page
