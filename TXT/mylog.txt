@@ -1,3 +1,7 @@
 ZCZX W00 5 L05 Installing SEB and do the dummy quiz on SEB
 ZCZX W00 10 L03 Set up my new repo "os232" on my github
 ZCZX W00 10 L04 Set up my github page
+ZCZC W00 60 L05 Quiz
+ZCZC W00 60 L10 Assignment #00
+ZXZC W00 100 L02 Class/ZOOM related
+ZXZC W00 10 LO1 SCELE/Discord related
