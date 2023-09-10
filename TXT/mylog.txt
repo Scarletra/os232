@@ -5,3 +5,18 @@ ZCZC W00 60 L05 Quiz
 ZCZC W00 60 L10 Assignment #00
 ZXZC W00 100 L02 Class/ZOOM related
 ZXZC W00 10 LO1 SCELE/Discord related
+ZCZC W01 10 L04 Github Pages related
+ZCZC W01 20 L01 SCELE/Discord related
+ZCZC W01 10 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 10 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 10 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 60 L11 Assignment #01
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 5 L41 TXT/mylog.txt related
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 10 L03 GitHub related
+ZCZC W01 10 L04 GitHub Pages related
+ZCZC W01 60 L05 Quiz related including studying
+ZCZC W01 5 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 120 L11 Assignment #01
+ZCZC W01 20 L41 TXT/mylog.txt related
