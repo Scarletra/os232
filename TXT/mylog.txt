@@ -84,3 +84,16 @@ ZCZC W06 5 L45 TXT/SHA256SUM related
 ZCZC W06 20 L05 Quiz related including studying
 ZCZC W06 5 L21 Trying something
 ZCZC W06 30 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W07 15 L00 General, etc.
+ZCZC W07 10 L01 SCELE/Discord related
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 5 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 5 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W07 15 L40 TXT/ related in general.
+ZCZC W07 5 L41 TXT/mylog.txt related.
+ZCZC W07 5 L43 TXT/myrank.txt related, including peer review.
+ZCZC W07 10 L44 TXT/myscript.sh related.
+ZCZC W07 5 L45 TXT/SHA256SUM related
+ZCZC W07 20 L05 Quiz related including studying
+ZCZC W07 5 L21 Trying something
