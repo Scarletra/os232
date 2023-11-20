@@ -97,3 +97,16 @@ ZCZC W07 10 L44 TXT/myscript.sh related.
 ZCZC W07 5 L45 TXT/SHA256SUM related
 ZCZC W07 20 L05 Quiz related including studying
 ZCZC W07 5 L21 Trying something
+ZCZC W08 15 L00 General, etc.
+ZCZC W08 10 L01 SCELE/Discord related
+ZCZC W08 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 5 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 5 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W08 15 L40 TXT/ related in general.
+ZCZC W08 5 L41 TXT/mylog.txt related.
+ZCZC W08 5 L43 TXT/myrank.txt related, including peer review.
+ZCZC W08 10 L44 TXT/myscript.sh related.
+ZCZC W08 5 L45 TXT/SHA256SUM related
+ZCZC W08 20 L05 Quiz related including studying
+ZCZC W08 5 L21 Trying something
